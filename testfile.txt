@@ -1,1 +1,1 @@
-One two three four gittestbranch commit1 five
+One two three four commit1 merged five
