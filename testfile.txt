@@ -1,2 +1,6 @@
-One two three four commit1 merged five 2
-Second line
+public class Testclass {
+
+	private long 	priorityNumber;
+	private String 	name;
+
+}
