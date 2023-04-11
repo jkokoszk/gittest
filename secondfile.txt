@@ -4,7 +4,7 @@ public class SecondClass {
     private String text;
 
     public SecondClass() {
-        System.out.println("SecondClass constructor");
+        System.out.println("SecondClass constructor after merge");
         System.out.println("Second line of constructor");
 	System.out.println("Third line of constructor");
     }
