@@ -7,11 +7,15 @@ public class SecondClass {
 
         System.out.println("SecondClass constructor after merge");
 <<<<<<< HEAD
+<<<<<<< HEAD
         System.out.println("Second line of constructor - second change after merge2");
 		System.out.println("Third line of constructor");
 
 =======
         System.out.println("Second line of constructor - first branch change");
+=======
+        System.out.println("Second line of constructor - second branch change");
+>>>>>>> Feature-2 - second change in constructor
 	System.out.println("Third line of constructor");
 =
 >>>>>>> Feature-2 - first change
