@@ -4,6 +4,6 @@ public class SecondClass {
     private String text;
 
     public SecondClass() {
-        System.out.println("SecondClass constructor");
+        System.out.println("SecondClass constructor on branch");
     }
 }
