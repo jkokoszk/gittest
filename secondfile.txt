@@ -6,8 +6,14 @@ public class SecondClass {
     public SecondClass() {
 
         System.out.println("SecondClass constructor after merge");
+<<<<<<< HEAD
         System.out.println("Second line of constructor - second change after merge2");
 		System.out.println("Third line of constructor");
 
+=======
+        System.out.println("Second line of constructor - second branch change");
+	System.out.println("Third line of constructor");
+=
+>>>>>>> af6de382af48db10bb62cf706a4b364a42b422cc
     }
 }
