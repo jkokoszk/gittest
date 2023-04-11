@@ -2,4 +2,8 @@ public class SecondClass {
 	
     private long value;
     private String text;
+
+    public SecondClass() {
+        System.out.println("SecondClass constructor");
+    }
 }
