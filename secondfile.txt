@@ -6,7 +6,7 @@ public class SecondClass {
     public SecondClass() {
 
         System.out.println("SecondClass constructor");
-        System.out.println("Second line of constructor - feature-4 - first change");
+        System.out.println("Second line of constructor - feature-4 - second change");
 		System.out.println("Third line of constructor");
 
     }
