@@ -7,7 +7,7 @@ public class SecondClass {
 
         System.out.println("SecondClass constructor");
         System.out.println("Second line of constructor");
-		System.out.println("Third line of constructor");
+		System.out.println("Third line of constructor - master first change");
 
     }
 }
