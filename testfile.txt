@@ -1,6 +1,6 @@
 public class Testclass {
 
 	private long 	priorityNumber;
-	private String 	name;
+	private String 	nameMasterChange;
 
 }
